@@ -1,0 +1,1 @@
+This project will involve making a HTML website which will demonstrate the skills I have learnt from the HTML Foundations section of The Odin Project
